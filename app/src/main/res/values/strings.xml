@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Ethereal Wardrobe</string>
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">Masukkan email</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint">Masukkan password</string>
+    <string name="login_button">Login</string>
+    <string name="login_success">Login berhasil</string>
+    <string name="login_failed">Email atau Password salah</string>
+    <string name="login_error">Gagal terhubung ke server</string>
+    <string name="email_required">Email wajib diisi</string>
+    <string name="password_required">Password wajib diisi</string>
+
+    <!-- Dashboard Screen -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="kelola_kategori">Kelola Kategori</string>
+    <string name="kelola_produk">Kelola Produk</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirm">Apakah Anda yakin ingin keluar?</string>
+    <string name="logout_success">Logout berhasil</string>
+
+    <!-- Kategori Screen -->
+    <string name="kategori_title">Daftar Kategori</string>
+    <string name="tambah_kategori">Tambah Kategori</string>
+    <string name="edit_kategori">Edit Kategori</string>
+    <string name="hapus_kategori">Hapus Kategori</string>
+    <string name="nama_kategori">Nama Kategori</string>
+    <string name="nama_kategori_hint">Masukkan nama kategori</string>
+    <string name="kategori_saved">Kategori berhasil disimpan</string>
+    <string name="kategori_updated">Kategori berhasil diperbarui</string>
+    <string name="kategori_deleted">Kategori berhasil dihapus</string>
+    <string name="kategori_exists">Kategori sudah ada</string>
+    <string name="kategori_empty">Belum ada kategori</string>
+    <string name="kategori_required">Nama kategori wajib diisi</string>
+
+    <!-- Produk Screen -->
+    <string name="produk_title">Daftar Produk</string>
+    <string name="detail_produk">Detail Produk</string>
+    <string name="tambah_produk">Tambah Produk</string>
+    <string name="edit_produk">Edit Produk</string>
+    <string name="hapus_produk">Hapus Produk</string>
+    <string name="nama_produk">Nama Produk</string>
+    <string name="nama_produk_hint">Masukkan nama produk</string>
+    <string name="kategori">Kategori</string>
+    <string name="pilih_kategori">Pilih Kategori</string>
+    <string name="harga">Harga</string>
+    <string name="harga_hint">Masukkan harga</string>
+    <string name="warna">Warna</string>
+    <string name="warna_hint">Masukkan warna</string>
+    <string name="stok_awal">Stok Awal</string>
+    <string name="stok_awal_hint">Masukkan stok awal</string>
+    <string name="stok_current">Stok Saat Ini</string>
+    <string name="produk_saved">Produk berhasil ditambahkan</string>
+    <string name="produk_updated">Produk berhasil diperbarui</string>
+    <string name="produk_deleted">Produk berhasil dihapus</string>
+    <string name="produk_empty">Belum ada produk</string>
+    <string name="produk_required">Nama, Kategori, dan Harga wajib diisi</string>
+
+    <!-- Stok Screen -->
+    <string name="update_stok">Update Stok</string>
+    <string name="tambah_stok">Tambah Stok</string>
+    <string name="kurangi_stok">Kurangi Stok</string>
+    <string name="jumlah_stok">Jumlah</string>
+    <string name="jumlah_stok_hint">Masukkan jumlah</string>
+    <string name="stok_updated">Stok berhasil diperbarui</string>
+    <string name="stok_minus">Stok tidak boleh negatif</string>
+    <string name="stok_invalid">Jumlah harus lebih dari 0</string>
+
+    <!-- Common -->
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="hapus_confirm">Apakah Anda yakin ingin menghapus?</string>
+    <string name="loading">Memuat…</string>
+    <string name="error_network">Kesalahan jaringan</string>
+    <string name="error_server">Kesalahan server</string>
+    <string name="unauthorized">Sesi telah berakhir, silakan login kembali</string>
+    <string name="rp">Rp</string>
+</resources>
