@@ -1,4 +1,4 @@
-# 👗 Ethereal Wardrobe
+# 👗 Ethereal Wardrobe (BACKEND)
 
 Ethereal Wardrobe adalah aplikasi Android berbasis Kotlin yang digunakan untuk
 mengelola data fashion seperti kategori produk, data produk, dan pencatatan stok.  
