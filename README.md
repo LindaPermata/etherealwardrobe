@@ -47,6 +47,22 @@ terkontrol, dengan tampilan yang modern dan mudah digunakan.
 <img width="384" height="830" alt="image" src="https://github.com/user-attachments/assets/5feecf5c-8b21-4e1c-9c1e-52ab09765d49" />
 
 
+### 👨‍💻 Developer
+
+**Nama:** Linda Permata Sari  
+**NIM:** 20230140086 
+**Universitas:** UMY  
+**Program Studi:** Teknologi Informasi
+
+---
+
+### 📝 License
+
+This project is for educational purposes (Tugas Akhir).
+
+---
+
+
 
 
 
